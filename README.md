@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on several Minecraft Hacked Clients
-- 🌱 I’m currently learning Java, Kotlin, JS, etc
+- 🔭 I’m currently working on a few minecraft clients
+- 🌱 I’m currently learning Java, HTML, and CS
 -->
